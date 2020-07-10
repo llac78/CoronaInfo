@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">CoronaInfo</string>
+
+    <string name="btnCovid">COVID-19</string>
+    <string name="btnSymptoms">Sintomas</string>
+    <string name="btnPrevention">Prevenção</string>
+    <string name="btnNumbers">Números COVID-19 no Mundo</string>
+
+
+    <string name="titleCovid">COVID-19</string>
+    <string name="txtCovid">
+        A doença de coronavírus (COVID-19) é uma doença infecciosa causada por um coronavírus recém-descoberto. A maioria das pessoas infectadas com o vírus COVID-19 apresentará doença respiratória leve a moderada e se recuperará sem a necessidade de tratamento especial.
+        \n\n Pessoas mais velhas e pessoas com problemas médicos subjacentes, como doenças cardiovasculares, diabetes, doenças respiratórias crônicas e câncer, têm maior probabilidade de desenvolver doenças graves.
+        \n\nA melhor maneira de prevenir e desacelerar a transmissão é estar bem informado sobre o vírus COVID-19, a doença que causa e como se espalha. Proteja-se e a outros de infecções lavando as mãos ou usando álcool com frequência e sem tocar no rosto.
+        \n\nO vírus COVID-19 se espalha principalmente através de gotículas de saliva ou secreção nasal quando uma pessoa infectada tosse ou espirra, por isso é importante que você pratique etiqueta respiratória (por exemplo, tossindo em um cotovelo flexionado).
+        \n\nNo momento, não existem vacinas ou tratamentos específicos para o COVID-19. No entanto, existem muitos ensaios clínicos em andamento avaliando possíveis tratamentos. \nA OMS continuará fornecendo informações atualizadas assim que os achados clínicos estiverem disponíveis.</string>
+    <string name="fontCovid">Texto traduzido a partir de: https://www.who.int/health-topics/coronavirus#tab=tab_1</string>
+
+
+    <string name="titleSymptoms">Sintomas</string>
+    <string name="txtSymptoms">O vírus COVID-19 afeta pessoas de diferentes maneiras. COVID-19 é uma doença respiratória e a maioria das pessoas infectadas desenvolve sintomas leves a moderados e se recupera sem a necessidade de tratamento especial.
+        \n\nPessoas que têm condições médicas subjacentes e pessoas com mais de 60 anos têm um risco maior de desenvolver doenças graves e morte.
+        \n\nOs sintomas comuns incluem:
+        \n- febre
+        \n- cansaço
+        \n- tosse seca.
+        \n\nOutros sintomas incluem:
+        \n- falta de ar
+        \n- dores
+        \n- dor de garganta
+        \n- e muito poucas pessoas relatam diarréia, náusea ou coriza.
+        \n\nPessoas com sintomas leves que são, por outro lado, saudáveis devem se autoisolar e entrar em contato com seu médico ou uma linha de informações da COVID-19 para obter orientação sobre testes e encaminhamento.
+        \n\nPessoas com febre, tosse ou dificuldade em respirar devem procurar atendimento médico.</string>
+    <string name="fontSymptoms">Texto traduzido a partir de: https://www.who.int/health-topics/coronavirus#tab=tab_3</string>
+
+
+    <string name="titlePrevention">Prevenção</string>
+    <string name="txtPrevention">Para impedir a infecção e retardar a transmissão do COVID-19, faça o seguinte:
+        \n\n- Lave as mãos regularmente com água e sabão ou limpe-as com álcool
+        \n- Mantenha pelo menos 1 metro de distância entre você e as pessoas que tossem ou espirram
+        \n- Evite tocar seu rosto
+        \n- Cubra a boca e o nariz ao tossir ou espirrar
+        \n- Fique em casa se não se sentir bem
+        \n- Evite fumar e outras atividades que enfraquecem os pulmões
+        \n- Pratique o distanciamento físico, evitando viagens desnecessárias e afastando-se de grandes grupos de pessoas.</string>
+
+    <string name="titleNumbers">COVID-19 no Mundo</string>
+
+
+    <string name="notification_channel_name">Padrão</string>
+    <string name="notification_channel_description">Canal padrão de notificações</string>
+    <string name="notification_title">Faça a diferença!</string>
+    <string name="notification_message">Hora de higienizar as mãos! Use água e sabão ou álcool em gel a 70%. Está usando máscara adequadamente? Proteja-se!</string>
+
+    <string name="reference">O conteúdo presente neste aplicativo foi extraído do site oficial da OMS (Organização Mundial da Saúde). \nhttps://www.who.int</string>
+</resources>

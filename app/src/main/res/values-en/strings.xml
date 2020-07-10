@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">CoronaInfo</string>
+
+    <string name="btnCovid">COVID-19</string>
+    <string name="btnSymptoms">Symptoms</string>
+    <string name="btnPrevention">Prevention</string>
+    <string name="btnNumbers">COVID-19 Around The World</string>
+
+
+    <string name="titleCovid">COVID-19</string>
+    <string name="txtCovid">
+        Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+        \nMost people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.
+        \n\nOlder people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+        \n\nThe best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.
+        \n\nThe COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+        \n\nAt this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments. WHO will continue to provide updated information as soon as clinical findings become available.
+    </string>
+    <string name="fontCovid">From https://www.who.int/health-topics/coronavirus#tab=tab_1</string>
+
+
+    <string name="titleSymptoms">Symptoms</string>
+    <string name="txtSymptoms">
+        The COVID-19 virus affects different people in different ways.  COVID-19 is a respiratory disease and most infected people will develop mild to moderate symptoms and recover without requiring special treatment.  People who have underlying medical conditions and those over 60 years old have a higher risk of developing severe disease and death.
+        \n\nCommon symptoms include:
+        \n- fever
+        \n- tiredness
+        \n- dry cough.
+        \n\nOther symptoms include:
+        \n- shortness of breath
+        \n- aches and pains
+        \n- sore throat
+        \n- and very few people will report diarrhoea, nausea or a runny nose.
+        \n\nPeople with mild symptoms who are otherwise healthy should self-isolate and contact their medical provider or a COVID-19 information line for advice on testing and referral.
+        \n\nPeople with fever, cough or difficulty breathing should call their doctor and seek medical attention.
+    </string>
+    <string name="fontSymptoms">From https://www.who.int/health-topics/coronavirus#tab=tab_3</string>
+
+
+    <string name="titlePrevention">Prevention</string>
+    <string name="txtPrevention">
+        To prevent infection and to slow transmission of COVID-19, do the following:
+        \n\n- Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.
+        \n- Maintain at least 1 metre distance between you and people coughing or sneezing.
+        \n- Avoid touching your face.
+        \n- Cover your mouth and nose when coughing or sneezing.
+        \n- Stay home if you feel unwell.
+        \n- Refrain from smoking and other activities that weaken the lungs.
+        \n- Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people.
+    </string>
+
+    <string name="titleNumbers">COVID-19 Around The World</string>
+
+
+    <string name="notification_channel_name">Default</string>
+    <string name="notification_channel_description">Default notifications channel</string>
+    <string name="notification_title">Make the difference!</string>
+    <string name="notification_message"> Time to wash your hands! You can use water and soap or 70% gel alcohol. Are you wearing a mask? Protect yourself!</string>
+
+    <string name="reference">All content is from WHO (World Health Organization) official website. \nhttps://www.who.int</string>
+</resources>
